@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\bin\Debug\net5.0\csharp-word.repeat.exe
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\bin\Debug\net5.0\csharp-word.repeat.deps.json
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\bin\Debug\net5.0\csharp-word.repeat.runtimeconfig.json
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\bin\Debug\net5.0\csharp-word.repeat.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\bin\Debug\net5.0\csharp-word.repeat.dll
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\bin\Debug\net5.0\csharp-word.repeat.pdb
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.dll
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\refint\csharp-word.repeat.dll
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.pdb
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\csharp-word.repeat.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\csharp-word.repeat\csharp-word.repeat\obj\Debug\net5.0\ref\csharp-word.repeat.dll
